@@ -31,3 +31,11 @@ Pods/
 # Carthage/Checkouts
 
 Carthage/Build
+
+# My Vim crap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
